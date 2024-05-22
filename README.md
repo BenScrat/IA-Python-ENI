@@ -1,4 +1,4 @@
-# IA
+# IA/Python ENI
 Cour IA
 
 ## Jupyter
